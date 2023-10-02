@@ -1,0 +1,17 @@
+estatura,peso,edad,sexo_nacimiento,sexo_autopercibido,oficio,industria
+175,75,25,-1,no binario,programador,tecnología
+165,55,40,1,mujer,maestra,educación
+180,85,35,1,hombre,ingeniero,construcción
+170,65,20,1,mujer,estudiante,educación
+160,50,55,-1,no binario,artista,servicios
+185,95,60,1,hombre,abogado,servicios
+175,70,30,1,mujer,administrador,oficina
+165,60,25,-1,no binario,empleado de retail,ventas
+180,80,40,1,hombre,vendedor,ventas
+170,60,35,1,mujer,técnico,tecnología
+160,55,20,-1,no binario,agricultor,agropecuario
+185,90,55,1,hombre,gerente,gerencia
+175,75,60,1,mujer,médico,salud
+165,65,30,-1,no binario,ingeniero de software,tecnología
+180,85,45,1,hombre,profesor,educación
+170,65,50,1,mujer,secretaria,oficina
